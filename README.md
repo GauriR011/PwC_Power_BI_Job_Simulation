@@ -69,7 +69,7 @@ Delivered a narrative on findings and proposed strategies for achieving diversit
 
 
 ## Environment and Tools
-###Tools:
+### Tools:
 - Power BI (for data cleaning, visualization and dashboard creation)
 - Microsoft Excel (data preprocessing)
 
