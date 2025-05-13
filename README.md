@@ -50,6 +50,10 @@ Objective: Build a dashboard to predict customer churn and provide actionable in
 - Drafted an email summarizing insights for the engagement partner.
 - Provided actionable suggestions, including strategies for proactive customer engagement to prevent churn.
 
+![alt text](https://github.com/GauriR011/PwC_Power_BI_Job_Simulation/blob/main/Dashboard_screenshots/task_2.png?raw=true)
+
+
+
 ### Task 3: Diversity and Inclusion Analysis
 Objective: Analyze diversity and inclusion metrics to help HR improve gender balance at the executive level.
 
